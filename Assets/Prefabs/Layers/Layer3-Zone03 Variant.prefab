@@ -123,7 +123,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1800840293690665601, guid: 7cf507bcb17e77243a3a8df040715e58, type: 3}
       propertyPath: m_Name
-      value: Layer3-Zone03
+      value: Layer3-Zone03 Variant
       objectReference: {fileID: 0}
     - target: {fileID: 5120336622187421578, guid: 7cf507bcb17e77243a3a8df040715e58, type: 3}
       propertyPath: m_RootOrder
@@ -297,6 +297,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 620385079152110037}
     m_Modifications:
+    - target: {fileID: 6431208946901056215, guid: ef5dd3d8a191aed42ad5a3508f284824, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6619712123583368082, guid: ef5dd3d8a191aed42ad5a3508f284824, type: 3}
       propertyPath: m_Name
       value: stairsCorner_E

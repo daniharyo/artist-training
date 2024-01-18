@@ -226,6 +226,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8367080199401990879, guid: 70c8d1ceee648604f84df2cf3f317e93, type: 3}
+      propertyPath: m_SortingOrder
+      value: -1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 70c8d1ceee648604f84df2cf3f317e93, type: 3}
 --- !u!1001 &8083477248739152242
@@ -237,7 +241,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1800840293690665601, guid: 7cf507bcb17e77243a3a8df040715e58, type: 3}
       propertyPath: m_Name
-      value: Layer4-Zone04
+      value: Layer4-Zone04 Variant
       objectReference: {fileID: 0}
     - target: {fileID: 5120336622187421578, guid: 7cf507bcb17e77243a3a8df040715e58, type: 3}
       propertyPath: m_RootOrder
