@@ -117,6 +117,10 @@ PrefabInstance:
       value: stoneWallColumn_e
       objectReference: {fileID: 0}
     - target: {fileID: 5321841372382320457, guid: ef565626e9233494ba1a947e2c57b1eb, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: f98d832a020988c49b772174ac631e90, type: 3}
+    - target: {fileID: 5321841372382320457, guid: ef565626e9233494ba1a947e2c57b1eb, type: 3}
       propertyPath: m_SortingOrder
       value: 1
       objectReference: {fileID: 0}
@@ -192,7 +196,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1800840293690665601, guid: 7cf507bcb17e77243a3a8df040715e58, type: 3}
       propertyPath: m_Name
-      value: LayerZone3
+      value: LayerZone3 Variant
       objectReference: {fileID: 0}
     - target: {fileID: 5120336622187421578, guid: 7cf507bcb17e77243a3a8df040715e58, type: 3}
       propertyPath: m_RootOrder
@@ -258,11 +262,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 820157625875023951, guid: ef565626e9233494ba1a947e2c57b1eb, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.38
+      value: -0.68
       objectReference: {fileID: 0}
     - target: {fileID: 820157625875023951, guid: ef565626e9233494ba1a947e2c57b1eb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.2
+      value: -2.68
       objectReference: {fileID: 0}
     - target: {fileID: 820157625875023951, guid: ef565626e9233494ba1a947e2c57b1eb, type: 3}
       propertyPath: m_LocalPosition.z
@@ -300,5 +304,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: stoneWallColumn_e
       objectReference: {fileID: 0}
+    - target: {fileID: 5321841372382320457, guid: ef565626e9233494ba1a947e2c57b1eb, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: b98600e27f5d4944ba97b287c7a9dcd7, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef565626e9233494ba1a947e2c57b1eb, type: 3}
