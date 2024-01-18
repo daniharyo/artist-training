@@ -608,6 +608,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1512076273}
     m_Modifications:
+    - target: {fileID: 2392293123874813353, guid: fbe2f708424d51f45af1a3da2a837244, type: 3}
+      propertyPath: m_SortingOrder
+      value: -1
+      objectReference: {fileID: 0}
     - target: {fileID: 3483745689499025298, guid: fbe2f708424d51f45af1a3da2a837244, type: 3}
       propertyPath: m_Name
       value: Layer-Zone_3
