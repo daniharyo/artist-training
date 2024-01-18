@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6222826143450547054
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1533302680573966321, guid: 3d3d5920f19167d469f7e1eadb365459, type: 3}
+      propertyPath: m_Name
+      value: decoration_texture-cafe2-tile-hotel_plants_stack-background Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 5835784778436528857, guid: 3d3d5920f19167d469f7e1eadb365459, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.11
+      objectReference: {fileID: 0}
+    - target: {fileID: 5835784778436528857, guid: 3d3d5920f19167d469f7e1eadb365459, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 5870992758689445314, guid: 3d3d5920f19167d469f7e1eadb365459, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 8169103193486269812, guid: 3d3d5920f19167d469f7e1eadb365459, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 8758761498888747661, guid: 3d3d5920f19167d469f7e1eadb365459, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8758761498888747661, guid: 3d3d5920f19167d469f7e1eadb365459, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8758761498888747661, guid: 3d3d5920f19167d469f7e1eadb365459, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 16.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 8758761498888747661, guid: 3d3d5920f19167d469f7e1eadb365459, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8758761498888747661, guid: 3d3d5920f19167d469f7e1eadb365459, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8758761498888747661, guid: 3d3d5920f19167d469f7e1eadb365459, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8758761498888747661, guid: 3d3d5920f19167d469f7e1eadb365459, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8758761498888747661, guid: 3d3d5920f19167d469f7e1eadb365459, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8758761498888747661, guid: 3d3d5920f19167d469f7e1eadb365459, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8758761498888747661, guid: 3d3d5920f19167d469f7e1eadb365459, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8758761498888747661, guid: 3d3d5920f19167d469f7e1eadb365459, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8830097321843729475, guid: 3d3d5920f19167d469f7e1eadb365459, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 8830097321843729475, guid: 3d3d5920f19167d469f7e1eadb365459, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.33
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3d3d5920f19167d469f7e1eadb365459, type: 3}
