@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3521700288204226220
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 285244695142670792, guid: 40c5e545f75e62945b16b11cb5b58f3d, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 285244695142670792, guid: 40c5e545f75e62945b16b11cb5b58f3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 27.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 285244695142670792, guid: 40c5e545f75e62945b16b11cb5b58f3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: 285244695142670792, guid: 40c5e545f75e62945b16b11cb5b58f3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 285244695142670792, guid: 40c5e545f75e62945b16b11cb5b58f3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 285244695142670792, guid: 40c5e545f75e62945b16b11cb5b58f3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 285244695142670792, guid: 40c5e545f75e62945b16b11cb5b58f3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 285244695142670792, guid: 40c5e545f75e62945b16b11cb5b58f3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 285244695142670792, guid: 40c5e545f75e62945b16b11cb5b58f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 285244695142670792, guid: 40c5e545f75e62945b16b11cb5b58f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 285244695142670792, guid: 40c5e545f75e62945b16b11cb5b58f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5831127079340545045, guid: 40c5e545f75e62945b16b11cb5b58f3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 5831127079340545045, guid: 40c5e545f75e62945b16b11cb5b58f3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.78
+      objectReference: {fileID: 0}
+    - target: {fileID: 6840158280566651123, guid: 40c5e545f75e62945b16b11cb5b58f3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6840158280566651123, guid: 40c5e545f75e62945b16b11cb5b58f3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8840094959811695648, guid: 40c5e545f75e62945b16b11cb5b58f3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.96
+      objectReference: {fileID: 0}
+    - target: {fileID: 8840094959811695648, guid: 40c5e545f75e62945b16b11cb5b58f3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 8962419356302955536, guid: 40c5e545f75e62945b16b11cb5b58f3d, type: 3}
+      propertyPath: m_Name
+      value: decoration_texture-cafe2-tile-hotel_plants_stack-background (1) 1 Variant
+        Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 40c5e545f75e62945b16b11cb5b58f3d, type: 3}
